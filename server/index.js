@@ -3,8 +3,6 @@ const cors = require('cors')
 const fs = require('fs')
 const path = require('path')
 const multer = require('multer')
-const e = require('express')
-const { error } = require('console')
 
 const app = express()
 app.use(cors())
