@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1759475515319",
+    "name": "Nikit Soni",
+    "email": "nikitsoni17@gmail.com",
+    "rating": 5,
+    "message": "this is a sample feedback",
+    "imageUrl": "http://localhost:4000/uploads/1759475515297-ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg",
+    "createdAt": "2025-10-03T07:11:55.319Z"
+  },
+  {
+    "id": "1759475788414",
+    "name": "Megha Soni",
+    "email": "megha@gmail.com",
+    "rating": 2,
+    "message": "test feedback message!",
+    "imageUrl": "http://localhost:4000/uploads/1759475788396-bird.jpg",
+    "createdAt": "2025-10-03T07:16:28.414Z"
+  },
+  {
+    "id": "1759475824950",
+    "name": "Nikit Soni",
+    "email": "nikit@gmail.com",
+    "rating": 3,
+    "message": "sample feedback",
+    "imageUrl": "http://localhost:4000/uploads/1759475824935-ai-generated-picture-of-a-tiger-walking-in-the-forest-photo.jpg",
+    "createdAt": "2025-10-03T07:17:04.950Z"
+  },
+  {
+    "id": "1759476153864",
+    "name": "Saad",
+    "email": "saad@gmail.com",
+    "rating": 4,
+    "message": "saad feedback",
+    "imageUrl": "http://localhost:4000/uploads/1759476153822-bird.jpg",
+    "createdAt": "2025-10-03T07:22:33.864Z"
+  }
+]
